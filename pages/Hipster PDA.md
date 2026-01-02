@@ -1,0 +1,3 @@
+- An offline 3x5 index card based personal organizer. Essentially a set of templates for todo lists, agendas and note taking.
+- Held together with a binder clip for convenience.
+- [[Hipster PDA - Eisenhower Matrix]]
