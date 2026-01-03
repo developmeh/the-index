@@ -1,0 +1,3 @@
+- https://github.com/sawhney17/logseq-hugo-template/
+- https://docs.logseq.com/#/page/publishing
+-
