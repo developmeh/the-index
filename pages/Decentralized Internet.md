@@ -1,0 +1,2 @@
+- https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/a-post-american-enshittification-resistant-internet
+-
